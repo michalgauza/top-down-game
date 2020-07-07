@@ -1,0 +1,145 @@
+
+player_knife_idle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+survivor-idle_knife
+  rotate: false
+  xy: 1, 695
+  size: 235, 174
+  orig: 289, 224
+  offset: 37, 33
+  index: 10
+survivor-idle_knife
+  rotate: false
+  xy: 1, 519
+  size: 235, 174
+  orig: 289, 224
+  offset: 37, 33
+  index: 11
+survivor-idle_knife
+  rotate: false
+  xy: 1, 519
+  size: 235, 174
+  orig: 289, 224
+  offset: 37, 33
+  index: 9
+survivor-idle_knife
+  rotate: false
+  xy: 238, 697
+  size: 235, 172
+  orig: 289, 224
+  offset: 37, 34
+  index: 12
+survivor-idle_knife
+  rotate: false
+  xy: 238, 697
+  size: 235, 172
+  orig: 289, 224
+  offset: 37, 34
+  index: 8
+survivor-idle_knife
+  rotate: false
+  xy: 1, 345
+  size: 235, 172
+  orig: 289, 224
+  offset: 37, 34
+  index: 13
+survivor-idle_knife
+  rotate: false
+  xy: 1, 345
+  size: 235, 172
+  orig: 289, 224
+  offset: 37, 34
+  index: 7
+survivor-idle_knife
+  rotate: false
+  xy: 238, 523
+  size: 234, 172
+  orig: 289, 224
+  offset: 37, 34
+  index: 14
+survivor-idle_knife
+  rotate: false
+  xy: 238, 523
+  size: 234, 172
+  orig: 289, 224
+  offset: 37, 34
+  index: 6
+survivor-idle_knife
+  rotate: false
+  xy: 475, 697
+  size: 233, 172
+  orig: 289, 224
+  offset: 38, 34
+  index: 15
+survivor-idle_knife
+  rotate: false
+  xy: 475, 697
+  size: 233, 172
+  orig: 289, 224
+  offset: 38, 34
+  index: 5
+survivor-idle_knife
+  rotate: false
+  xy: 1, 172
+  size: 233, 171
+  orig: 289, 224
+  offset: 38, 34
+  index: 16
+survivor-idle_knife
+  rotate: false
+  xy: 1, 172
+  size: 233, 171
+  orig: 289, 224
+  offset: 38, 34
+  index: 4
+survivor-idle_knife
+  rotate: false
+  xy: 238, 351
+  size: 232, 170
+  orig: 289, 224
+  offset: 38, 35
+  index: 17
+survivor-idle_knife
+  rotate: false
+  xy: 238, 351
+  size: 232, 170
+  orig: 289, 224
+  offset: 38, 35
+  index: 3
+survivor-idle_knife
+  rotate: false
+  xy: 474, 525
+  size: 232, 170
+  orig: 289, 224
+  offset: 38, 35
+  index: 18
+survivor-idle_knife
+  rotate: false
+  xy: 474, 525
+  size: 232, 170
+  orig: 289, 224
+  offset: 38, 35
+  index: 2
+survivor-idle_knife
+  rotate: false
+  xy: 710, 700
+  size: 231, 169
+  orig: 289, 224
+  offset: 39, 35
+  index: 0
+survivor-idle_knife
+  rotate: false
+  xy: 1, 1
+  size: 231, 169
+  orig: 289, 224
+  offset: 39, 35
+  index: 1
+survivor-idle_knife
+  rotate: false
+  xy: 1, 1
+  size: 231, 169
+  orig: 289, 224
+  offset: 39, 35
+  index: 19

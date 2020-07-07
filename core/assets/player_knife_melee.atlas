@@ -1,0 +1,110 @@
+
+player_knife_melee.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+survivor-meleeattack_knife
+  rotate: false
+  xy: 1, 714
+  size: 214, 266
+  orig: 329, 300
+  offset: 42, 15
+  index: 9
+survivor-meleeattack_knife
+  rotate: false
+  xy: 217, 726
+  size: 221, 254
+  orig: 329, 300
+  offset: 41, 27
+  index: 10
+survivor-meleeattack_knife
+  rotate: false
+  xy: 440, 751
+  size: 240, 229
+  orig: 329, 300
+  offset: 45, 51
+  index: 8
+survivor-meleeattack_knife
+  rotate: false
+  xy: 682, 755
+  size: 231, 225
+  orig: 329, 300
+  offset: 39, 56
+  index: 11
+survivor-meleeattack_knife
+  rotate: false
+  xy: 1, 524
+  size: 242, 188
+  orig: 329, 300
+  offset: 38, 93
+  index: 12
+survivor-meleeattack_knife
+  rotate: false
+  xy: 1, 344
+  size: 246, 178
+  orig: 329, 300
+  offset: 37, 103
+  index: 13
+survivor-meleeattack_knife
+  rotate: false
+  xy: 1, 173
+  size: 262, 169
+  orig: 329, 300
+  offset: 50, 107
+  index: 7
+survivor-meleeattack_knife
+  rotate: false
+  xy: 1, 1
+  size: 238, 170
+  orig: 329, 300
+  offset: 36, 110
+  index: 14
+survivor-meleeattack_knife
+  rotate: false
+  xy: 245, 548
+  size: 207, 176
+  orig: 329, 300
+  offset: 49, 103
+  index: 6
+survivor-meleeattack_knife
+  rotate: false
+  xy: 454, 580
+  size: 231, 169
+  orig: 329, 300
+  offset: 36, 111
+  index: 0
+survivor-meleeattack_knife
+  rotate: false
+  xy: 687, 583
+  size: 221, 170
+  orig: 329, 300
+  offset: 37, 109
+  index: 1
+survivor-meleeattack_knife
+  rotate: false
+  xy: 249, 377
+  size: 191, 169
+  orig: 329, 300
+  offset: 39, 107
+  index: 2
+survivor-meleeattack_knife
+  rotate: false
+  xy: 265, 193
+  size: 174, 182
+  orig: 329, 300
+  offset: 42, 102
+  index: 4
+survivor-meleeattack_knife
+  rotate: false
+  xy: 454, 403
+  size: 184, 175
+  orig: 329, 300
+  offset: 40, 104
+  index: 3
+survivor-meleeattack_knife
+  rotate: false
+  xy: 640, 401
+  size: 171, 177
+  orig: 329, 300
+  offset: 39, 102
+  index: 5

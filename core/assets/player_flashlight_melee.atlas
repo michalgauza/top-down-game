@@ -1,0 +1,110 @@
+
+player_flashlight_melee.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 1, 793
+  size: 249, 191
+  orig: 316, 246
+  offset: 33, 36
+  index: 6
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 252, 825
+  size: 280, 159
+  orig: 316, 246
+  offset: 24, 32
+  index: 5
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 534, 824
+  size: 278, 160
+  orig: 316, 246
+  offset: 26, 32
+  index: 4
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 1, 615
+  size: 254, 176
+  orig: 316, 246
+  offset: 32, 36
+  index: 13
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 1, 443
+  size: 265, 170
+  orig: 316, 246
+  offset: 37, 37
+  index: 14
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 1, 276
+  size: 266, 165
+  orig: 316, 246
+  offset: 41, 33
+  index: 0
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 1, 110
+  size: 268, 164
+  orig: 316, 246
+  offset: 39, 33
+  index: 1
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 257, 661
+  size: 274, 162
+  orig: 316, 246
+  offset: 31, 32
+  index: 3
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 533, 658
+  size: 271, 164
+  orig: 316, 246
+  offset: 35, 32
+  index: 2
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 268, 484
+  size: 227, 175
+  orig: 316, 246
+  offset: 35, 27
+  index: 12
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 497, 501
+  size: 247, 155
+  orig: 316, 246
+  offset: 45, 36
+  index: 7
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 269, 324
+  size: 226, 158
+  orig: 316, 246
+  offset: 45, 36
+  index: 9
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 497, 342
+  size: 241, 157
+  orig: 316, 246
+  offset: 45, 36
+  index: 8
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 271, 162
+  size: 216, 160
+  orig: 316, 246
+  offset: 37, 30
+  index: 11
+survivor-meleeattack_flashlight
+  rotate: false
+  xy: 271, 1
+  size: 211, 159
+  orig: 316, 246
+  offset: 44, 36
+  index: 10

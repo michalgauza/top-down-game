@@ -1,0 +1,145 @@
+
+player_flashlight_idle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 842
+  size: 266, 168
+  orig: 303, 223
+  offset: 33, 34
+  index: 10
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 672
+  size: 266, 168
+  orig: 303, 223
+  offset: 33, 34
+  index: 11
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 672
+  size: 266, 168
+  orig: 303, 223
+  offset: 33, 34
+  index: 9
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 843
+  size: 266, 167
+  orig: 303, 223
+  offset: 33, 34
+  index: 12
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 843
+  size: 266, 167
+  orig: 303, 223
+  offset: 33, 34
+  index: 8
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 503
+  size: 266, 167
+  orig: 303, 223
+  offset: 34, 34
+  index: 14
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 503
+  size: 266, 167
+  orig: 303, 223
+  offset: 34, 34
+  index: 6
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 674
+  size: 265, 167
+  orig: 303, 223
+  offset: 34, 34
+  index: 13
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 674
+  size: 265, 167
+  orig: 303, 223
+  offset: 34, 34
+  index: 7
+survivor-idle_flashlight
+  rotate: false
+  xy: 537, 844
+  size: 266, 166
+  orig: 303, 223
+  offset: 34, 34
+  index: 15
+survivor-idle_flashlight
+  rotate: false
+  xy: 537, 844
+  size: 266, 166
+  orig: 303, 223
+  offset: 34, 34
+  index: 5
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 335
+  size: 266, 166
+  orig: 303, 223
+  offset: 35, 34
+  index: 17
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 335
+  size: 266, 166
+  orig: 303, 223
+  offset: 35, 34
+  index: 3
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 168
+  size: 266, 165
+  orig: 303, 223
+  offset: 35, 34
+  index: 0
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 1
+  size: 266, 165
+  orig: 303, 223
+  offset: 35, 34
+  index: 1
+survivor-idle_flashlight
+  rotate: false
+  xy: 1, 1
+  size: 266, 165
+  orig: 303, 223
+  offset: 35, 34
+  index: 19
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 506
+  size: 265, 166
+  orig: 303, 223
+  offset: 35, 34
+  index: 16
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 506
+  size: 265, 166
+  orig: 303, 223
+  offset: 35, 34
+  index: 4
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 339
+  size: 266, 165
+  orig: 303, 223
+  offset: 35, 34
+  index: 18
+survivor-idle_flashlight
+  rotate: false
+  xy: 269, 339
+  size: 266, 165
+  orig: 303, 223
+  offset: 35, 34
+  index: 2

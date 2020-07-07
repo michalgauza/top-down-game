@@ -1,0 +1,110 @@
+
+player_reload.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+survivor-reload_handgun
+  rotate: false
+  xy: 1, 831
+  size: 206, 172
+  orig: 260, 230
+  offset: 36, 18
+  index: 8
+survivor-reload_handgun
+  rotate: false
+  xy: 209, 840
+  size: 214, 163
+  orig: 260, 230
+  offset: 35, 26
+  index: 5
+survivor-reload_handgun
+  rotate: false
+  xy: 1, 660
+  size: 208, 169
+  orig: 260, 230
+  offset: 36, 20
+  index: 7
+survivor-reload_handgun
+  rotate: false
+  xy: 1, 490
+  size: 207, 168
+  orig: 260, 230
+  offset: 36, 22
+  index: 9
+survivor-reload_handgun
+  rotate: false
+  xy: 425, 837
+  size: 211, 166
+  orig: 260, 230
+  offset: 36, 23
+  index: 6
+survivor-reload_handgun
+  rotate: false
+  xy: 638, 843
+  size: 212, 160
+  orig: 260, 230
+  offset: 36, 29
+  index: 4
+survivor-reload_handgun
+  rotate: false
+  xy: 1, 324
+  size: 207, 164
+  orig: 260, 230
+  offset: 37, 26
+  index: 10
+survivor-reload_handgun
+  rotate: false
+  xy: 1, 161
+  size: 208, 161
+  orig: 260, 230
+  offset: 37, 30
+  index: 11
+survivor-reload_handgun
+  rotate: false
+  xy: 1, 1
+  size: 212, 158
+  orig: 260, 230
+  offset: 36, 32
+  index: 3
+survivor-reload_handgun
+  rotate: false
+  xy: 211, 681
+  size: 209, 157
+  orig: 260, 230
+  offset: 37, 34
+  index: 12
+survivor-reload_handgun
+  rotate: false
+  xy: 422, 681
+  size: 210, 154
+  orig: 260, 230
+  offset: 37, 37
+  index: 0
+survivor-reload_handgun
+  rotate: false
+  xy: 211, 524
+  size: 210, 155
+  orig: 260, 230
+  offset: 37, 36
+  index: 1
+survivor-reload_handgun
+  rotate: false
+  xy: 210, 366
+  size: 210, 156
+  orig: 260, 230
+  offset: 37, 34
+  index: 2
+survivor-reload_handgun
+  rotate: false
+  xy: 423, 525
+  size: 210, 154
+  orig: 260, 230
+  offset: 37, 37
+  index: 13
+survivor-reload_handgun
+  rotate: false
+  xy: 211, 210
+  size: 209, 154
+  orig: 260, 230
+  offset: 37, 37
+  index: 14
